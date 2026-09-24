@@ -11,10 +11,13 @@
 📦 **팀 저장소** : [github.com/zouea4879/Zoo-Jack](https://github.com/zouea4879/Zoo-Jack)  
 📁 **이 저장소** : 제가 담당한 시스템 코드만 모아 둔 포트폴리오용 저장소입니다.
 
+### 🎬 플레이 영상
+
 <p align="center">
-  <img src="Screenshots/round_17_accusation.png" width="49%" />
-  <img src="Screenshots/screenshot-20260628-205312.png" width="49%" />
-  <br/><sub>⚖️ 패자의 고발 선택 → 고발 성공 시 승패 역전 (개발 초기 프로토타입 화면)</sub>
+  <a href="https://youtu.be/GEhVEvsItPQ">
+    <img src="https://img.youtube.com/vi/GEhVEvsItPQ/maxresdefault.jpg" width="80%" alt="ZooJack 플레이 영상" />
+  </a>
+  <br/><sub>▶️ 이미지를 클릭하면 YouTube에서 재생됩니다</sub>
 </p>
 
 ---
